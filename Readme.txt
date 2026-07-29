@@ -218,3 +218,17 @@ Default arguments
 *args and **kwargs
 Lambda functions
 Function-based mini project
+
+# git 
+git remote add origin https://github.com/NexBite/Python-Learning.git
+Step 9: Push Code
+git branch -M main
+git push -u origin main
+
+#= Future Daily Workflow
+
+Every day after practice:
+
+git add .
+git commit -m "Day 2 Python functions practice"
+git push
